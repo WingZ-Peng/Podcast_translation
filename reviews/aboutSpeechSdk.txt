@@ -1,0 +1,5 @@
+﻿The Speech SDK exposes many features from the Speech Service, but not all of them.
+The capabilities of the Speech SDK are often associated with scenarios.
+The Speech SDK is ideal for both real time and non real time scenarios using local devices, files, Azure BLOB storage and even input and output streams.
+When a scenario is not achievable with the Speech SDK, look for a REST API alternative. Speech to Text, also known as Speech recognition, transcribes audio streams to text that your applications, tools, or devices can consume or display.
+Use speech to text with language understanding. Lewis to derive user intents from transcribed speech and act on voice commands. Use speech translation to translate speech input to a different language with a single call. For more information, see Speech to Text Basics.
