@@ -1,16 +1,8 @@
-1. 语音to文本
-2. 文本翻译
-3. 批量处理，采用了并发处理
-4. 加入异常处理，允许一个文件处理失败，也不会影响到其他文件处理
-5. 文件覆盖
-6. 设计合理的去做到资源释放
-7. 错误恢复，添加了重试逻辑
-
-未来
-1. 装饰前端工程
-2. 
-3. 
-
-
-### Podcast Translation
+Speech to text
+Text translation
+Batch processing, using concurrent processing
+Added exception handling, allowing one file to fail processing without affecting other files
+File overwriting
+Designed reasonable resource release
+Error recovery, added retry logic
 
